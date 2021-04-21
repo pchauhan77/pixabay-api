@@ -1,6 +1,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+make a .env file and add:
+SKIP_PREFLIGHT_CHECK=true
+REACT_APP_API_KEY=xxxxxxxxxxxxxx
+
 ## Available Scripts
 
 In the project directory, you can run:
